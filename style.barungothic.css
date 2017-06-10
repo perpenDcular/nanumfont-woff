@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Nanum Barun Gothic';
+  font-weight: 200;
+  src: url(fo.barungothic.ul.woff) format('woff');
+}
+@font-face {
+  font-family: 'Nanum Barun Gothic';
+  font-weight: 300;
+  src: url(fo.barungothic.l.woff) format('woff');
+}
+@font-face {
+  font-family: 'Nanum Barun Gothic';
+  font-weight: 400;
+  src: url(fo.barungothic.r.woff) format('woff');
+}
+@font-face {
+  font-family: 'Nanum Barun Gothic';
+  font-weight: 700;
+  src: url(fo.barungothic.b.woff) format('woff');
+}

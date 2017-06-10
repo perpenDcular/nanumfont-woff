@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-weight: 300;
+  src: url(fs.gothic.l.woff) format('woff');
+}
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-weight: 400;
+  src: url(fs.gothic.r.woff) format('woff');
+}
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-weight: 700;
+  src: url(fs.gothic.b.woff) format('woff');
+}
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-weight: 900;
+  src: url(fs.gothic.eb.woff) format('woff');
+}
