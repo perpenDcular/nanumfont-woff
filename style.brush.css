@@ -1,5 +1,5 @@
 @font-face {
   font-family: 'Nanum Brush Script';
   font-weight: 400;
-  src: url(fo.brush.r.woff) format('woff');
+  src: local(NanumBrush), url(fo.brush.r.woff) format('woff');
 }

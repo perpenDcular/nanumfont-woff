@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Nanum Gothic Coding';
+  font-weight: 400;
+  src: local(NanumGothicCoding), url(fo.coding.r.woff) format('woff');
+}
+@font-face {
+  font-family: 'Nanum Gothic Coding';
+  font-weight: 700;
+  src: local(NanumGothicCoding-Bold), url(fo.coding.b.woff) format('woff');
+}
