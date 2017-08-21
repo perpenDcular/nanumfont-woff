@@ -6,10 +6,10 @@
 @font-face {
   font-family: 'Nanum Myeongjo';
   font-weight: 700;
-  src: local('NanumMyeongjo Bold'), local('NanumMyeongjoBold'), local('나눔명조 Bold'), url('fo.myeongjo.b.woff') format('woff');
+  src: local('NanumMyeongjo Bold'), local('NanumMyeongjoBold'), local('NanumMyeongjo'), local('나눔명조 Bold'), local('나눔명조'), url('fo.myeongjo.b.woff') format('woff');
 }
 @font-face {
   font-family: 'Nanum Myeongjo';
   font-weight: 900;
-  src: local('NanumMyeongjo ExtraBold'), local('NanumMyeongjoExtraBold'), local('나눔명조 ExtraBold'), url('fo.myeongjo.eb.woff') format('woff');
+  src: local('NanumMyeongjo ExtraBold'), local('NanumMyeongjoExtraBold'), local('NanumMyeongjo'), local('나눔명조 ExtraBold'), local('나눔명조'), url('fo.myeongjo.eb.woff') format('woff');
 }

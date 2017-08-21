@@ -6,5 +6,5 @@
 @font-face {
   font-family: 'Nanum Barun Pen';
   font-weight: 700;
-  src: local('NanumBarunpen Bold'), local('NanumBarunpen-Bold'), local('나눔바른펜 Bold'), url('fs.barunpen.b.woff') format('woff');
+  src: local('NanumBarunpen Bold'), local('NanumBarunpen-Bold'), local('NanumBarunpen'), local('나눔바른펜 Bold'), local('나눔바른펜'), url('fs.barunpen.b.woff') format('woff');
 }
