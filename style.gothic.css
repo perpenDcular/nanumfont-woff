@@ -1,20 +1,20 @@
 @font-face {
   font-family: 'Nanum Gothic';
   font-weight: 300;
-  src: local(NanumGothicLight), url(fs.gothic.l.woff) format('woff');
+  src: local('NanumGothicLight'), local('³ª´®°íµñ Light'), url('fs.gothic.l.woff') format('woff');
 }
 @font-face {
   font-family: 'Nanum Gothic';
   font-weight: 400;
-  src: local(NanumGothic), url(fs.gothic.r.woff) format('woff');
+  src: local('NanumGothic'), local('³ª´®°íµñ'), url('fs.gothic.r.woff') format('woff');
 }
 @font-face {
   font-family: 'Nanum Gothic';
   font-weight: 700;
-  src: local(NanumGothicBold), url(fs.gothic.b.woff) format('woff');
+  src: local('NanumGothicBold'), local('³ª´®°íµñ Bold'), url('fs.gothic.b.woff') format('woff');
 }
 @font-face {
   font-family: 'Nanum Gothic';
   font-weight: 900;
-  src: local(NanumGothicExtraBold), url(fs.gothic.eb.woff) format('woff');
+  src: local('NanumGothicExtraBold'), local('³ª´®°íµñ ExtraBold'), url('fs.gothic.eb.woff') format('woff');
 }

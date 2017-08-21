@@ -1,5 +1,5 @@
 @font-face {
   font-family: 'Nanum Pen Script';
   font-weight: 400;
-  src: local(NanumPen), url(fo.pen.r.woff) format('woff');
+  src: local('NanumPen'), local('³ª´®¼Õ±Û¾¾ Ææ'), url('fo.pen.r.woff') format('woff');
 }

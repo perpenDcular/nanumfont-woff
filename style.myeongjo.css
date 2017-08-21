@@ -1,15 +1,15 @@
 @font-face {
   font-family: 'Nanum Myeongjo';
   font-weight: 400;
-  src: local(NanumMyeongjo), url(fo.myeongjo.r.woff) format('woff');
+  src: local('NanumMyeongjo'), local('³ª´®¸íÁ¶'), url('fo.myeongjo.r.woff') format('woff');
 }
 @font-face {
   font-family: 'Nanum Myeongjo';
   font-weight: 700;
-  src: local(NanumMyeongjoBold), url(fo.myeongjo.b.woff) format('woff');
+  src: local('NanumMyeongjoBold'), local('³ª´®¸íÁ¶ Bold'), url('fo.myeongjo.b.woff') format('woff');
 }
 @font-face {
   font-family: 'Nanum Myeongjo';
   font-weight: 900;
-  src: local(NanumMyeongjoExtraBold), url(fo.myeongjo.eb.woff) format('woff');
+  src: local('NanumMyeongjoExtraBold'), local('³ª´®¸íÁ¶ ExtraBold'), url('fo.myeongjo.eb.woff') format('woff');
 }

@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Nanum Barun Pen';
   font-weight: 400;
-  src: local(NanumBarunpen), url(fs.barunpen.r.woff) format('woff');
+  src: local('NanumBarunpen'), local('³ª´®¹Ù¸¥Ææ'), url('fs.barunpen.r.woff') format('woff');
 }
 @font-face {
   font-family: 'Nanum Barun Pen';
   font-weight: 700;
-  src: local(NanumBarunpen-Bold), url(fs.barunpen.b.woff) format('woff');
+  src: local('NanumBarunpen-Bold'), local('³ª´®¹Ù¸¥Ææ Bold'), url('fs.barunpen.b.woff') format('woff');
 }
