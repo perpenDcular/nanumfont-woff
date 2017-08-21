@@ -6,5 +6,5 @@
 @font-face {
   font-family: 'Nanum Gothic Coding';
   font-weight: 700;
-  src: local('NanumGothicCoding-Bold'), local('나눔고딕코딩 Bold'), url('ft.coding.b.woff') format('woff');
+  src: local('NanumGothicCoding Bold'), local('NanumGothicCoding-Bold'), local('나눔고딕코딩 Bold'), url('ft.coding.b.woff') format('woff');
 }

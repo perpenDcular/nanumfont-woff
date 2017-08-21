@@ -1,12 +1,12 @@
 ﻿@font-face {
   font-family: 'Nanum Barun Gothic';
   font-weight: 200;
-  src: local('NanumBarunGothicUltraLight'), local('나눔바른고딕 UltraLight'), url('fo.barungothic.ul.woff') format('woff');
+  src: local('NanumBarunGothic UltraLight'), local('NanumBarunGothicUltraLight'), local('나눔바른고딕 UltraLight'), url('fo.barungothic.ul.woff') format('woff');
 }
 @font-face {
   font-family: 'Nanum Barun Gothic';
   font-weight: 300;
-  src: local('NanumBarunGothicLight'), local('나눔바른고딕 Light'), url('fo.barungothic.l.woff') format('woff');
+  src: local('NanumBarunGothic Light'), local('NanumBarunGothicLight'), local('나눔바른고딕 Light'), url('fo.barungothic.l.woff') format('woff');
 }
 @font-face {
   font-family: 'Nanum Barun Gothic';
@@ -16,5 +16,5 @@
 @font-face {
   font-family: 'Nanum Barun Gothic';
   font-weight: 700;
-  src: local('NanumBarunGothicBold'), local('나눔바른고딕 Bold'), url('fo.barungothic.b.woff') format('woff');
+  src: local('NanumBarunGothic Bold'), local('NanumBarunGothicBold'), local('나눔바른고딕 Bold'), url('fo.barungothic.b.woff') format('woff');
 }
