@@ -1,10 +1,10 @@
-@font-face {
+ï»¿@font-face {
   font-family: 'Nanum Gothic Coding';
   font-weight: 400;
-  src: local('NanumGothicCoding'), local('³ª´®°íµñÄÚµù'), url('ft.coding.r.woff') format('woff');
+  src: local('NanumGothicCoding'), local('ë‚˜ëˆ”ê³ ë”•ì½”ë”©'), url('ft.coding.r.woff') format('woff');
 }
 @font-face {
   font-family: 'Nanum Gothic Coding';
   font-weight: 700;
-  src: local('NanumGothicCoding-Bold'), local('³ª´®°íµñÄÚµù Bold'), url('ft.coding.b.woff') format('woff');
+  src: local('NanumGothicCoding-Bold'), local('ë‚˜ëˆ”ê³ ë”•ì½”ë”© Bold'), url('ft.coding.b.woff') format('woff');
 }

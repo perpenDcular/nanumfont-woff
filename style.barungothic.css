@@ -1,20 +1,20 @@
-@font-face {
+ï»¿@font-face {
   font-family: 'Nanum Barun Gothic';
   font-weight: 200;
-  src: local('NanumBarunGothicUltraLight'), local('³ª´®¹Ù¸¥°íµñ UltraLight'), url('fo.barungothic.ul.woff') format('woff');
+  src: local('NanumBarunGothicUltraLight'), local('ë‚˜ëˆ”ë°”ë¥¸ê³ ë”• UltraLight'), url('fo.barungothic.ul.woff') format('woff');
 }
 @font-face {
   font-family: 'Nanum Barun Gothic';
   font-weight: 300;
-  src: local('NanumBarunGothicLight'), local('³ª´®¹Ù¸¥°íµñ Light'), url('fo.barungothic.l.woff') format('woff');
+  src: local('NanumBarunGothicLight'), local('ë‚˜ëˆ”ë°”ë¥¸ê³ ë”• Light'), url('fo.barungothic.l.woff') format('woff');
 }
 @font-face {
   font-family: 'Nanum Barun Gothic';
   font-weight: 400;
-  src: local('NanumBarunGothic'), local('³ª´®¹Ù¸¥°íµñ'), url('fo.barungothic.r.woff') format('woff');
+  src: local('NanumBarunGothic'), local('ë‚˜ëˆ”ë°”ë¥¸ê³ ë”•'), url('fo.barungothic.r.woff') format('woff');
 }
 @font-face {
   font-family: 'Nanum Barun Gothic';
   font-weight: 700;
-  src: local('NanumBarunGothicBold'), local('³ª´®¹Ù¸¥°íµñ Bold'), url('fo.barungothic.b.woff') format('woff');
+  src: local('NanumBarunGothicBold'), local('ë‚˜ëˆ”ë°”ë¥¸ê³ ë”• Bold'), url('fo.barungothic.b.woff') format('woff');
 }

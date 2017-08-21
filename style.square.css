@@ -1,20 +1,20 @@
-@font-face {
+ï»¿@font-face {
   font-family: 'Nanum Square';
   font-weight: 300;
-  src: local('NanumSquareL'), local('³ª´®½ºÄù¾î Light'), url('fs.square.l.woff') format('woff');
+  src: local('NanumSquareL'), local('ë‚˜ëˆ”ìŠ¤í€˜ì–´ Light'), url('fs.square.l.woff') format('woff');
 }
 @font-face {
   font-family: 'Nanum Square';
   font-weight: 400;
-  src: local('NanumSquareR'), local('³ª´®½ºÄù¾î Regular'), url('fs.square.r.woff') format('woff');
+  src: local('NanumSquareR'), local('ë‚˜ëˆ”ìŠ¤í€˜ì–´ Regular'), url('fs.square.r.woff') format('woff');
 }
 @font-face {
   font-family: 'Nanum Square';
   font-weight: 700;
-  src: local('NanumSquareB'), local('³ª´®½ºÄù¾î Bold'), url('fs.square.b.woff') format('woff');
+  src: local('NanumSquareB'), local('ë‚˜ëˆ”ìŠ¤í€˜ì–´ Bold'), url('fs.square.b.woff') format('woff');
 }
 @font-face {
   font-family: 'Nanum Square';
   font-weight: 900;
-  src: local('NanumSquareEB'), local('³ª´®½ºÄù¾î ExtraBold'), url('fs.square.eb.woff') format('woff');
+  src: local('NanumSquareEB'), local('ë‚˜ëˆ”ìŠ¤í€˜ì–´ ExtraBold'), url('fs.square.eb.woff') format('woff');
 }
