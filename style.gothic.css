@@ -1,20 +1,20 @@
 ﻿@font-face {
   font-family: 'Nanum Gothic';
   font-weight: 300;
-  src: local('NanumGothic Light'), local('NanumGothicLight'), local('나눔고딕 Light'), url('fs.gothic.l.woff') format('woff');
+  src: url('fs.gothic.l.woff') format('woff');
 }
 @font-face {
   font-family: 'Nanum Gothic';
   font-weight: 400;
-  src: local('NanumGothic'), local('나눔고딕'), url('fs.gothic.r.woff') format('woff');
+  src: url('fs.gothic.r.woff') format('woff');
 }
 @font-face {
   font-family: 'Nanum Gothic';
   font-weight: 700;
-  src: local('NanumGothic Bold'), local('NanumGothicBold'), local('나눔고딕 Bold'), url('fs.gothic.b.woff') format('woff');
+  src: url('fs.gothic.b.woff') format('woff');
 }
 @font-face {
   font-family: 'Nanum Gothic';
   font-weight: 900;
-  src: local('NanumGothic ExtraBold'), local('NanumGothicExtraBold'), local('나눔고딕 ExtraBold'), url('fs.gothic.eb.woff') format('woff');
+  src: url('fs.gothic.eb.woff') format('woff');
 }

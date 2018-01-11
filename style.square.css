@@ -1,20 +1,20 @@
 ﻿@font-face {
   font-family: 'Nanum Square';
   font-weight: 300;
-  src: local('NanumSquare Light'), local('NanumSquareL'), local('나눔스퀘어 Light'), url('fs.square.l.woff') format('woff');
+  src: url('fs.square.l.woff') format('woff');
 }
 @font-face {
   font-family: 'Nanum Square';
   font-weight: 400;
-  src: local('NanumSquare Regular'), local('NanumSquareR'), local('NanumSquare'), local('나눔스퀘어 Regular'), local('나눔스퀘어'), url('fs.square.r.woff') format('woff');
+  src: url('fs.square.r.woff') format('woff');
 }
 @font-face {
   font-family: 'Nanum Square';
   font-weight: 700;
-  src: local('NanumSquare Bold'), local('NanumSquareB'), local('나눔스퀘어 Bold'), url('fs.square.b.woff') format('woff');
+  src: url('fs.square.b.woff') format('woff');
 }
 @font-face {
   font-family: 'Nanum Square';
   font-weight: 900;
-  src: local('NanumSquare ExtraBold'), local('NanumSquareEB'), local('나눔스퀘어 ExtraBold'), url('fs.square.eb.woff') format('woff');
+  src: url('fs.square.eb.woff') format('woff');
 }
