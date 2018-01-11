@@ -1,7 +1,7 @@
 ﻿@font-face {
   font-family: 'Nanum Square Round';
   font-weight: 300;
-  src: local('NanumSquareRound Light'), local('NanumSquareRoundL'), local('NanumSquareRound'), local('나눔스퀘어라운드 Light'), local('나눔스퀘어라운드'), url('fs.squareround.l.woff') format('woff');
+  src: local('NanumSquareRound Light'), local('NanumSquareRoundL'), local('나눔스퀘어라운드 Light'), url('fs.squareround.l.woff') format('woff');
 }
 @font-face {
   font-family: 'Nanum Square Round';
@@ -11,10 +11,10 @@
 @font-face {
   font-family: 'Nanum Square Round';
   font-weight: 700;
-  src: local('NanumSquareRound Bold'), local('NanumSquareRoundB'), local('NanumSquareRound'), local('나눔스퀘어라운드 Bold'), local('나눔스퀘어라운드'), url('fs.squareround.b.woff') format('woff');
+  src: local('NanumSquareRound Bold'), local('NanumSquareRoundB'), local('나눔스퀘어라운드 Bold'), url('fs.squareround.b.woff') format('woff');
 }
 @font-face {
   font-family: 'Nanum Square Round';
   font-weight: 900;
-  src: local('NanumSquareRound ExtraBold'), local('NanumSquareRoundEB'), local('NanumSquareRound'), local('나눔스퀘어라운드 ExtraBold'), local('나눔스퀘어라운드'), url('fs.squareround.eb.woff') format('woff');
+  src: local('NanumSquareRound ExtraBold'), local('NanumSquareRoundEB'), local('나눔스퀘어라운드 ExtraBold'), url('fs.squareround.eb.woff') format('woff');
 }
